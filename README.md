@@ -39,5 +39,5 @@
 <br>
 <img align="right" src="https://github.com/KetHite/kethite/blob/main/assets/contact.gif" alt="Anime gif" width="50%">
 <div align="left">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-DISCORD-%237289DA?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.me%2Fkethite">
+    <p>Telegram (@socrates_na_maximalkax)</p>
 </div>
