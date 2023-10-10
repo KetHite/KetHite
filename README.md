@@ -27,7 +27,7 @@
 <div align="right">
     <img alt="Static Badge" src="https://img.shields.io/badge/-HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/-CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/` -JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow">
     <img alt="Static Badge" src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
