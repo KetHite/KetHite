@@ -20,6 +20,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <h2 align="center">~📇Languages & Tools📇~</h2>
 <hr>
 <br>
@@ -34,7 +36,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">~Contact me~</h2>
+<h2 align="center">📝~Contact me~📝</h2>
 <hr>
 <br>
 <img align="right" src="https://github.com/KetHite/kethite/blob/main/assets/contact.gif" alt="Anime gif" width="50%">
